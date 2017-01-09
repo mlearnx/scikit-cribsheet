@@ -10,7 +10,7 @@
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
 |[linear-models](linear-models.ipynb)
-[discriminant-analysis](discriminant-analysis.ipynb)
+|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)
 |test
 |test
 |[combining-estimators](combining-estimators.ipynb)
@@ -54,6 +54,7 @@
 
 [density estimation](density estimation.ipynb)
 
+[discriminant-analysis](discriminant-analysis.ipynb)
 [document_classification_20newsgroups](document_classification_20newsgroups.ipynb)
 
 [ensemble-methods](ensemble-methods.ipynb)
@@ -65,8 +66,6 @@
 [feature_selection_pipeline].feature_selection_pipeline.ipynb)
 
 [feature_stacker].(feature_stacker.ipynb)
-
-[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)
 
 [gaussians](gaussians.ipynb)
 
