@@ -9,5 +9,7 @@
 |Supervised|Unsupervised|Data Munging|Data Transforms|Dataset Ops|
 |----------|------------|------------|---------------|-----------|
 |[linear models](linear-models.ipynb)  |[gaussian mixtures](gaussian-mixture-models-GMMs.ipynb)    |[cross validation](cross-validation.ipynb)    |[combining estimators](combining-estimators.ipynb)       |[dataset loaders](dataset-loaders.ipynb)   |
-|[discriminants](discriminant-analysis.ipynb)  |[manifolds](manifolds.ipynb)    |[hyperparameters](hyperparameter tuning & search.ipynb)    |[feature extraction](feature-extraction.ipynb)       |[test]()   |
-|[test]())  |[test]()    |[test]()    |[test]()       |[test]()   |
+|[discriminants](discriminant-analysis.ipynb)  |[manifolds](manifolds.ipynb)    |[hyperparameters](hyperparameter tuning & search.ipynb)    |[feature extraction](feature-extraction.ipynb)       |[]()   |
+|[test]()  |[test]()    |[test]()    |[test]()       |[]()   |
+|[test]()  |[test]()    |[test]()    |[test]()       |[]()   |
+|[test]()  |[test]()    |[test]()    |[test]()       |[]()   |
