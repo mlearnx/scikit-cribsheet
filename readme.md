@@ -8,5 +8,5 @@
 
 |Supervised|Unsupervised|Data Munging|Data Transforms|Dataset Ops|
 |----------|------------|------------|---------------|-----------|
-|[linear](linear-models.ipynb)  |[gaussian mixtures](gaussian-mixture-models-GMMs.ipynb)    |[test]()    |[test]()       |[test]()   |
+|[linear](linear-models.ipynb)  |[gaussian mixtures](gaussian-mixture-models-GMMs.ipynb)    |[cross validation](cross-validation.ipynb)    |[combining estimators](combining-estimators.ipynb)       |[dataset loaders](dataset-loaders.ipynb)   |
 |[test]()  |[test]()    |[test]()    |[test]()       |[test]()   |
