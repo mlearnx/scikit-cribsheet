@@ -9,8 +9,10 @@
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
-|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|test|test|test
-|[combining-estimators](combining-estimators.ipynb)
+|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|[cross-validation](cross-validation.ipynb)
+|[combining-estimators](combining-estimators.ipynb)|[dataset-loaders](dataset-loaders.ipynb)
+
+|
 
 [feature-extraction](feature-extraction.ipynb)
 [multiclass-multilabel](multiclass-multilabel.ipynb)
@@ -22,12 +24,10 @@
 [pairwise-metrics](pairwise-metrics.ipynb)
 [multiclass-multilabel](multiclass-multilabel.ipynb)
 [transforming-prediction-target](transforming-prediction-target.ipynb)
-[dataset-loaders](dataset-loaders.ipynb)
 [biclustering](biclustering.ipynb)
 [clustering](clustering.ipynb)
 [covariance](covariance.ipynb)
 [cross-decomposition](cross-decomposition.ipynb)
-[cross-validation](cross-validation.ipynb)
 [decision-trees](decision-trees.ipynb)
 [decomposing-signals](decomposing-signals.ipynb)
 [density estimation](density estimation.ipynb)
