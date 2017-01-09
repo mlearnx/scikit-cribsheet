@@ -6,12 +6,12 @@
 
 |Supervised||Unsupervised|Data Munging|Data Transforms|Dataset Ops|
 |----------|------------|------------|------------|---------------|-----------|
-|[linear models](linear-models.ipynb)  |[decision trees](decision-trees.ipynb)  |[gaussian mixtures](gaussian-mixture-models-GMMs.ipynb)    |[cross validation](cross-validation.ipynb)    |[combining estimators](combining-estimators.ipynb)       |[dataset loaders](dataset-loaders.ipynb)   |
-|[discriminants](discriminant-analysis.ipynb)  |[ensembles](ensemble-methods.ipynb)  |[manifolds](manifolds.ipynb)    |[hyperparameters](hyperparameter tuning & search.ipynb)    |[feature extraction](feature-extraction.ipynb)       |[]()   |
-|[kernel ridge](kernel-ridge-regression.ipynb)  |[multiclass/label](multiclass-multilabel.ipynb)  |[clustering](clustering.ipynb)    |[model metrics](model-evaluation.ipynb)    |[data prep](data-prep.ipynb)      |[]()   |
-|[SVMs](support-vector-machines.ipynb)  |[feature selection](feature-selection.ipynb)       |[biclustering](biclustering.ipynb)    |[model persistence](model-persistence.ipynb)    |[dimensionality reduction](unsupervised-dimensionality-reduction.ipynb)       |[]()   |
-|[SGD](stochastic-gradient-descent-SGD.ipynb)  |[semi-supervised](semi-supervised.ipynb)|[decomposing signals](decomposing-signals.ipynb)  |[validation curves](validation-curves.ipynb)    |[random projections](random-projections.ipynb)    |[]()   |
-|[nearest neighbors](nearest-neighbors.ipynb)  |[isotonics](isotonic-regression.ipynb)  |[covariance](covariance.ipynb)    |[]()    |[kernel approximation](kernel-approximation.ipynb)       |[]()   |
-|[gaussians](gaussians.ipynb)  |[probability calibration](probability-calibration.ipynb)  |[novelties & outliers](novelty & outlier detection.ipynb)    |[]()    |[pairwise metrics](pairwise-metrics.ipynb)       |[]()   |
-|[cross decomposition](cross-decomposition.ipynb)       |[]()       |[density estimates](density estimation.ipynb)       |[]()       |[transform prediction targets](transforming-prediction-target.ipynb)       |[]()       |
-|[naive bayes](naive-bayes.ipynb)       |[]()       |[neural nets](neural-nets.ipynb)       |[]()       |[]()       |[]()       |
+|[linear models](linear-models.html)  |[decision trees](decision-trees.html)  |[gaussian mixtures](gaussian-mixture-models-GMMs.html)    |[cross validation](cross-validation.html)    |[combining estimators](combining-estimators.html)       |[dataset loaders](dataset-loaders.html)   |
+|[discriminants](discriminant-analysis.html)  |[ensembles](ensemble-methods.html)  |[manifolds](manifolds.html)    |[hyperparameters](hyperparameter tuning & search.html)    |[feature extraction](feature-extraction.html)       |[]()   |
+|[kernel ridge](kernel-ridge-regression.html)  |[multiclass/label](multiclass-multilabel.html)  |[clustering](clustering.html)    |[model metrics](model-evaluation.html)    |[data prep](data-prep.html)      |[]()   |
+|[SVMs](support-vector-machines.html)  |[feature selection](feature-selection.html)       |[biclustering](biclustering.html)    |[model persistence](model-persistence.html)    |[dimensionality reduction](unsupervised-dimensionality-reduction.html)       |[]()   |
+|[SGD](stochastic-gradient-descent-SGD.html)  |[semi-supervised](semi-supervised.html)|[decomposing signals](decomposing-signals.html)  |[validation curves](validation-curves.html)    |[random projections](random-projections.html)    |[]()   |
+|[nearest neighbors](nearest-neighbors.html)  |[isotonics](isotonic-regression.html)  |[covariance](covariance.html)    |[]()    |[kernel approximation](kernel-approximation.html)       |[]()   |
+|[gaussians](gaussians.html)  |[probability calibration](probability-calibration.html)  |[novelties & outliers](novelty & outlier detection.html)    |[]()    |[pairwise metrics](pairwise-metrics.html)       |[]()   |
+|[cross decomposition](cross-decomposition.html)       |[]()       |[density estimates](density estimation.html)       |[]()       |[transform prediction targets](transforming-prediction-target.html)       |[]()       |
+|[naive bayes](naive-bayes.html)       |[]()       |[neural nets](neural-nets.html)       |[]()       |[]()       |[]()       |
