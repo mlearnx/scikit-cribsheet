@@ -8,3 +8,4 @@
 
 |Supervised|Unsupervised|Data Munging|Data Transforms|Dataset Ops|
 |----------|------------|------------|---------------|-----------|
+|[test]()  |[test]()    |[test]()    |[test]()       |[test]()   |
