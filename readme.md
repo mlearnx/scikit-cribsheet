@@ -8,6 +8,7 @@
 
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
+|---|---|---|---|---|
 |
 |
 |
