@@ -15,5 +15,5 @@
 |[SGD](stochastic-gradient-descent-SGD.ipynb)  |[semi-supervised](semi-supervised.ipynb)|[decomposing signals](decomposing-signals.ipynb)  |[validation curves](validation-curves.ipynb)    |[random projections](random-projections.ipynb)    |[]()   |
 |[nearest neighbors](nearest-neighbors.ipynb)  |[isotonics](isotonic-regression.ipynb)  |[covariance](covariance.ipynb)    |[]()    |[kernel approximation](kernel-approximation.ipynb)       |[]()   |
 |[gaussians](gaussians.ipynb)  |[probability calibration](probability-calibration.ipynb)  |[novelties & outliers](novelty & outlier detection.ipynb)    |[]()    |[pairwise metrics](pairwise-metrics.ipynb)       |[]()   |
-|[cross decomposition](cross-decomposition.ipynb)       |[test]()       |[density estimates](density estimation.ipynb)       |[test]()       |[transform prediction targets](transforming-prediction-target.ipynb)       |[test]()       |
+|[cross decomposition](cross-decomposition.ipynb)       |[]()       |[density estimates](density estimation.ipynb)       |[]()       |[transform prediction targets](transforming-prediction-target.ipynb)       |[]()       |
 |[naive bayes](naive-bayes.ipynb)       |[]()       |[neural nets](neural-nets.ipynb)       |[]()       |[]()       |[]()       |
