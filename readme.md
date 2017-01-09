@@ -9,7 +9,8 @@
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
-|test
+|[linear-models](linear-models.ipynb)
+[discriminant-analysis](discriminant-analysis.ipynb)
 |test
 |test
 |[combining-estimators](combining-estimators.ipynb)
@@ -53,8 +54,6 @@
 
 [density estimation](density estimation.ipynb)
 
-[discriminant-analysis](discriminant-analysis.ipynb)
-
 [document_classification_20newsgroups](document_classification_20newsgroups.ipynb)
 
 [ensemble-methods](ensemble-methods.ipynb)
@@ -78,8 +77,6 @@
 [isotonic-regression](isotonic-regression.ipynb)
 
 [kernel-ridge-regression](.ipynb)
-
-[linear-models](linear-models.ipynb)
 
 [manifolds](manifolds.ipynb)
 
