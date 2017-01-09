@@ -9,9 +9,9 @@
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
-|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|[cross-validation](cross-validation.ipynb)|[combining-estimators](combining-estimators.ipynb)|[dataset-loaders](dataset-loaders.ipynb)
+|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|[cross-validation](cross-validation.ipynb)|[combining-estimators](combining-estimators.ipynb)|[dataset-loaders](dataset-loaders.ipynb)|[hyperparameters](hyperparameter tuning & search.ipynb)||
 
-|
+|[discriminant-analysis](discriminant-analysis.ipynb)|[manifolds](manifolds.ipynb)|
 
 [feature-extraction](feature-extraction.ipynb)
 [multiclass-multilabel](multiclass-multilabel.ipynb)
@@ -30,7 +30,7 @@
 [decision-trees](decision-trees.ipynb)
 [decomposing-signals](decomposing-signals.ipynb)
 [density estimation](density estimation.ipynb)
-[discriminant-analysis](discriminant-analysis.ipynb)
+
 [document_classification_20newsgroups](document_classification_20newsgroups.ipynb)
 [ensemble-methods](ensemble-methods.ipynb)
 [face_recognition](face_recognition.ipynb)
@@ -39,10 +39,8 @@
 [feature_stacker](feature_stacker.ipynb)
 [gaussians](gaussians.ipynb)
 [grid_search_text_feature_extraction](grid_search_text_feature_extraction.ipynb)
-[hyperparameter tuning & search](hyperparameter tuning & search.ipynb)
 [isotonic-regression](isotonic-regression.ipynb)
 [kernel-ridge-regression](.ipynb)
-[manifolds](manifolds.ipynb)
 [missing_values](.ipynb)
 [model-evaluation](model-evaluation.ipynb)
 [model-persistence](model-persistence.ipynb)
