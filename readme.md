@@ -8,5 +8,5 @@
 
 |Supervised|Unsupervised|Data Munging|Data Transforms|Dataset Ops|
 |----------|------------|------------|---------------|-----------|
-|[test]()  |[test]()    |[test]()    |[test]()       |[test]()   |
+|[linear](linear-models.ipynb)  |[gaussian mixtures](gaussian-mixture-models-GMMs.ipynb)    |[test]()    |[test]()       |[test]()   |
 |[test]()  |[test]()    |[test]()    |[test]()       |[test]()   |
