@@ -9,8 +9,7 @@
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
-|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|[cross-validation](cross-validation.ipynb)
-|[combining-estimators](combining-estimators.ipynb)|[dataset-loaders](dataset-loaders.ipynb)
+|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|[cross-validation](cross-validation.ipynb)|[combining-estimators](combining-estimators.ipynb)|[dataset-loaders](dataset-loaders.ipynb)
 
 |
 
