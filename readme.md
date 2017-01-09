@@ -9,10 +9,7 @@
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
-|[linear-models](linear-models.ipynb)
-|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)
-|test
-|test
+|[linear-models](linear-models.ipynb)|[gaussian-mixture-models-GMMs](gaussian-mixture-models-GMMs.ipynb)|test|test|test
 |[combining-estimators](combining-estimators.ipynb)
 
 [feature-extraction](feature-extraction.ipynb)
