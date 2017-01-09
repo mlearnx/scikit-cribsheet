@@ -6,5 +6,8 @@
 * Demo plots are included & unchanged (for now) from original scikit-learn distribution.
    * TODO: parameterize each demo
 
-## Contents
-* TODO
+|Contents||||
+Supervised   | Unsupervised | Data Munging | Data Transforms | Dataset Ops  |
+----------   | ------------ | ------------ | --------------- | ------------ |
+[Linear]()   | []()         | []()         | []()            | []()         |
+[]()         | []()         | []()         | []()            | []()         |
