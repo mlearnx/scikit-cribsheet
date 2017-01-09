@@ -9,9 +9,9 @@
 ## Contents
 |Supervised|Unsupervised|Data Eval|Data Munging|Datasets|
 |---|---|---|---|---|
-|
-|
-|
+|test
+|test
+|test
 |[combining-estimators](combining-estimators.ipynb)
 
 [feature-extraction](feature-extraction.ipynb)
